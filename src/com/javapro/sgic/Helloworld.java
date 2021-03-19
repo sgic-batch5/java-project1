@@ -20,6 +20,7 @@ public class Helloworld {
 		System.out.println("Risha Ahamadh Risha Ahamadh");
 
 		System.out.println("Nilucshiha");
+		System.out.println("Nilucshiha 1");
 
 
 		System.out.println("S.KIRUTHTHIGAN");
@@ -40,6 +41,8 @@ public class Helloworld {
 =======
 		
 		System.out.println("piruntha");
+		
+		System.out.println("name print");
 
 
 
