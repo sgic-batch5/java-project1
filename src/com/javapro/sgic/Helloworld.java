@@ -34,7 +34,12 @@ public class Helloworld {
 		System.out.println("members");
 		System.out.println("Read");
 		System.out.println("orientation");
+
+		
+		System.out.println("ghgjj");
+
 		System.out.println("artist");
+		System.out.println("examination");
 
 
 
