@@ -33,10 +33,10 @@ public class Helloworld {
 		System.out.println("HOMETOWN");
 		System.out.println("artist");
 		System.out.println("examination");
-
+		System.out.println("disaster");
 		System.out.println("artist1");
 		System.out.println("examination12");
-
+		System.out.println("ventilation");
 
 
 
