@@ -4,10 +4,6 @@ public class Helloworld {
 	public static void main(String args[]) {
 		System.out.println("Hello World");
 
-
-
-
-		
 		System.out.println("Roshany Subramaniyam");
 		
 		System.out.println("mattale");
@@ -26,13 +22,8 @@ public class Helloworld {
 		System.out.println("Hello Umasuthan, Im Prgs");
 		System.out.println("organization");
 
-
-
 		System.out.println("organization");
-		
-		
-
-		
+			
 	
 		System.out.println("hi");
 		System.out.println("Mathematics");
@@ -42,10 +33,16 @@ public class Helloworld {
 		System.out.println("I'm sasikala ....");
 
 		System.out.println("Hello Umasuthan, Im Prgs");
+
+		
+		System.out.println("I'm theepika");
+
 		System.out.println("Read me");
 
 		System.out.println("members");
 		System.out.println("Read");
+		System.out.println("orientation");
+
 
 
 
