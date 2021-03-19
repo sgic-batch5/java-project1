@@ -3,25 +3,21 @@ package com.javapro.sgic;
 public class Helloworld {
 	public static void main(String args[]) {
 		System.out.println("Hello World");
-
-
-
-
-		
 		System.out.println("Roshany Subramaniyam");
-		
+		System.out.println("COMPUTER");
 		System.out.println("Hello world");
-
-		System.out.println("Hello I am Umasuthan");
-
-		System.out.println("sasikala");
-		
+		System.out.println("CODE");
 		System.out.println("Hello I am Umasuthan");
 		System.out.println("JAFFNA");
+		System.out.println("sasikala");
+		System.out.println("JAFFNA");
+		System.out.println("Hello I am Umasuthan");
+		System.out.println("WElcome");
 		System.out.println("SGIC");
 		System.out.println("Hello");
 		System.out.println("Hello Umasuthan, Im Prgs");
 		System.out.println("organization");
+<<<<<<< HEAD
 
 
 
@@ -35,6 +31,8 @@ public class Helloworld {
 
 
 
+=======
+>>>>>>> e3cdfffa9b5536ce07baf9672e76cf1e7828cb7d
 		System.out.println("organization");
 		System.out.println("hi");
 		System.out.println("Mathematics");
@@ -46,10 +44,10 @@ public class Helloworld {
 		System.out.println("members");
 		System.out.println("Read");
 		System.out.println("orientation");
-
-		
+		System.out.println("JAFFNA");
+		System.out.println("JAFFNA");
 		System.out.println("ghgjj");
-
+		System.out.println("JAFFNA");
 		System.out.println("artist");
 		System.out.println("examination");
 
@@ -63,8 +61,9 @@ public class Helloworld {
 
 
 		System.out.println("computer");
-
-
+		System.out.println("today");
+		System.out.println("music");
+		System.out.println("SriLanka");
 
 
 	}
