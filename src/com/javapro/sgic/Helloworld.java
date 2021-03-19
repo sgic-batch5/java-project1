@@ -3,10 +3,7 @@ package com.javapro.sgic;
 public class Helloworld {
 	public static void main(String args[]) {
 		System.out.println("Hello World");
-<<<<<<< HEAD
 
-=======
->>>>>>> 62214c4558d181538fc79fe6ee3963ad5f33c537
 		System.out.println("Roshany Subramaniyam");
 		
 		
