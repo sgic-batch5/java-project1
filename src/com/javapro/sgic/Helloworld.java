@@ -23,11 +23,11 @@ public class Helloworld {
 		System.out.println("Hello");
 		System.out.println("Hello Umasuthan, Im Prgs");
 		System.out.println("organization");
-<<<<<<< HEAD
-=======
 
 
->>>>>>> b9b2499b53938bf1aa4f746b0f1e2694a7878d93
+
+
+
 		System.out.println("organization");
 		System.out.println("hi");
 		System.out.println("Mathematics");
@@ -44,9 +44,14 @@ public class Helloworld {
 		System.out.println("members");
 		System.out.println("Read");
 		System.out.println("orientation");
+
+		
+		System.out.println("ghgjj");
+
 		System.out.println("artist");
 		System.out.println("examination");
 		System.out.println("family");
+
 
 
 
