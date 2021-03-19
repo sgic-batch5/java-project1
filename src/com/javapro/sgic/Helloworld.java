@@ -37,8 +37,7 @@ public class Helloworld {
 		
 
 
-<<<<<<< HEAD
-=======
+
 		
 		System.out.println("piruntha");
 		
@@ -46,6 +45,6 @@ public class Helloworld {
 
 
 
->>>>>>> 7292a9d719c6a07a7d61705afdcab6fc6e457635
+
 	}
 }
