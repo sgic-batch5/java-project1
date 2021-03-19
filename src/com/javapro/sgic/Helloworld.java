@@ -17,7 +17,6 @@ public class Helloworld {
 		System.out.println("sasikala");
 		
 		System.out.println("Hello I am Umasuthan");
-		
 		System.out.println("JAFFNA");
 		System.out.println("SGIC");
 		System.out.println("Hello");
