@@ -3,7 +3,10 @@ package com.javapro.sgic;
 public class Helloworld {
 	public static void main(String args[]) {
 		System.out.println("Hello World");
+<<<<<<< HEAD
 
+=======
+>>>>>>> 62214c4558d181538fc79fe6ee3963ad5f33c537
 		System.out.println("Roshany Subramaniyam");
 		
 		
@@ -12,11 +15,11 @@ public class Helloworld {
 		System.out.println("Hello world");
 		System.out.println("CODE");
 		System.out.println("Hello I am Umasuthan");
-
-		System.out.println("sasikala");
-		
-		System.out.println("Hello I am Umasuthan");
 		System.out.println("JAFFNA");
+		System.out.println("sasikala");
+		System.out.println("JAFFNA");
+		System.out.println("Hello I am Umasuthan");
+		System.out.println("WElcome");
 		System.out.println("SGIC");
 		System.out.println("Hello");
 		System.out.println("Hello Umasuthan, Im Prgs");
@@ -54,7 +57,7 @@ public class Helloworld {
 
 		
 		System.out.println("today");
-
+		System.out.println("music");
 
 	}
 }
