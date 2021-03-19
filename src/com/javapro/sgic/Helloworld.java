@@ -23,7 +23,7 @@ public class Helloworld {
 		System.out.println("organization");
 		System.out.println("degree");
 		System.out.println("organization");
-			
+		System.out.println("parts");
 	
 
 
