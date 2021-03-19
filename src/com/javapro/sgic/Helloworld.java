@@ -35,6 +35,8 @@ public class Helloworld {
 
 		
 		System.out.println("piruntha");
+		
+		System.out.println("name print");
 
 
 
