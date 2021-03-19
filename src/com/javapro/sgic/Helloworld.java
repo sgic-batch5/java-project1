@@ -29,6 +29,7 @@ public class Helloworld {
 		System.out.println("abcd");
 		System.out.println("automatic");
 		System.out.println("dot");
+		System.out.println("end");
 
 		System.out.println("hi");
 		System.out.println("Mathematics");
@@ -38,9 +39,9 @@ public class Helloworld {
 		System.out.println("Hello Umasuthan, Im Prgs");
 		System.out.println("I'm theepika");
 		System.out.println("Read me");
-<<<<<<< HEAD
-		System.out.println("Sasikala Ambalavanar");
-=======
+
+	
+		
 		System.out.println("members");
 		System.out.println("Read");
 		System.out.println("orientation");
