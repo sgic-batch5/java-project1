@@ -6,8 +6,8 @@ public class Helloworld {
 		System.out.println("lectures");
 		System.out.println("Roshany Subramaniyam");
 		System.out.println("bye");
-		System.out.println("keyboard");
-		
+		System.out.println("electronics");
+		System.out.println("hi");
 		System.out.println("COMPUTER");
 		System.out.println("Hello world");
 		System.out.println("CODE");
