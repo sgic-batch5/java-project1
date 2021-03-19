@@ -32,10 +32,13 @@ public class Helloworld {
 		System.out.println("Hello");
 		System.out.println("rish ahamadh 2");
         
+		System.out.println("NILUCSHIHA");
 
 
 		
 		System.out.println("piruntha");
+		
+		System.out.println("qwertyuiop;lkjnhbvc");
 		
 		System.out.println("name print");
 
