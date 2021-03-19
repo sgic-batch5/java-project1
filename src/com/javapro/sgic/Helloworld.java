@@ -42,6 +42,9 @@ public class Helloworld {
 		System.out.println("ventilation");
 		System.out.println("hospital");
 
+		System.out.println("MNLINESS");
+		System.out.println("family");
+		System.out.println("development");
 		System.out.println("Values");
 		System.out.println("people");
 		System.out.println("Kids");
@@ -51,6 +54,10 @@ public class Helloworld {
 
 		System.out.println("ten");
 		System.out.println("animals");
+
+
+		System.out.println("ten");
+		System.out.println("twenty");
 
 
 		System.out.println("family");
