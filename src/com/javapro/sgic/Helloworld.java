@@ -52,13 +52,18 @@ public class Helloworld {
 
 		System.out.println("artist");
 		System.out.println("examination");
-<<<<<<< HEAD
+
 
 		System.out.println("Theepika");
-=======
+		System.out.println("Theepikaaaa");
+
 		System.out.println("family");
 
->>>>>>> 9184f0a323649e89a5abd71ea735c06b55cef8cf
+
+
+
+		System.out.println("computer");
+
 
 
 
