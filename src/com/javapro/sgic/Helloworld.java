@@ -25,11 +25,11 @@ public class Helloworld {
 
 		System.out.println("Mithila");
 		System.out.println("rish ahamadh 2");
-        
+		System.out.println("Gaja");
 
-<<<<<<< HEAD
-=======
 
->>>>>>> d7a63d83009206b729f7228acd8064a333767ae8
+		
+
+
 	}
 }
