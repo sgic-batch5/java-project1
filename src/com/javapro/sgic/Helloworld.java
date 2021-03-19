@@ -5,7 +5,7 @@ public class Helloworld {
 		System.out.println("Hello World");
 		System.out.println("Hii");
 		System.out.println("Gajapalini");
-
+		System.out.println("Theebi");
 
 		System.out.println("Risha Ahamadh...");
 
@@ -20,6 +20,7 @@ public class Helloworld {
 		System.out.println("Risha Ahamadh Risha Ahamadh");
 
 		System.out.println("Nilucshiha");
+		System.out.println("Nilucshiha 1");
 
 
 		System.out.println("S.KIRUTHTHIGAN");
@@ -27,14 +28,36 @@ public class Helloworld {
 		System.out.println("Theebihai");
 
 		System.out.println("Mithila");
+		
+		System.out.println("Hello");
 		System.out.println("rish ahamadh 2");
+
+		System.out.println("Gaja");
+
+
+		
+
+
         
+		System.out.println("NILUCSHIHA 1");
+
+		System.out.println("Nilucshiha 1");
 
 
 		
 		System.out.println("piruntha");
 		System.out.println("PIRUNTHA");
 		
+		
+		System.out.println("qwertyuiop;lkjnhbvc");
+		
+		System.out.println("name print");
+		
+		System.out.println("risha ahamadh 333333");
+		System.out.println("risha ahamadh 4444");
+		
+		
+
 
 
 
