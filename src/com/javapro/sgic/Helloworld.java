@@ -24,7 +24,6 @@ public class Helloworld {
 		System.out.println("Hello Umasuthan, Im Prgs");
 		System.out.println("organization");
 
-<<<<<<< HEAD
 
 		System.out.println("organization");
 		
@@ -39,11 +38,16 @@ public class Helloworld {
 		
 		System.out.println("I'm sasikala ....");
 		System.out.println("Hello Umasuthan, Im Prgs");
+
+		
+		System.out.println("I'm theepika");
+
 		System.out.println("Read me");
 
 		System.out.println("members");
 		System.out.println("Read");
 		System.out.println("orientation");
+
 
 
 
