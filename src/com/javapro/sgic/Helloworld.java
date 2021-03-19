@@ -24,8 +24,8 @@ public class Helloworld {
 		System.out.println("degree");
 		System.out.println("organization");
 		System.out.println("parts");
-	
-
+		System.out.println("type");
+		System.out.println("notebook");
 
 		System.out.println("organization");
 
