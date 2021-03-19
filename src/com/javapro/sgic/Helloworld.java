@@ -38,9 +38,18 @@ public class Helloworld {
 		System.out.println("examination12");
 		System.out.println("ventilation");
 		System.out.println("hospital");
+
+		System.out.println("Values");
+		System.out.println("people");
+		System.out.println("Kids");
+		System.out.println("MACHINE");
+
+
+
 		System.out.println("ten");
-		System.out.println("twenty");
-		System.out.println("");
+		System.out.println("animals");
+
+
 		System.out.println("family");
 		System.out.println("computer");
 		System.out.println("today");
