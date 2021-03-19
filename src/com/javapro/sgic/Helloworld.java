@@ -8,8 +8,9 @@ public class Helloworld {
 		
 		
 		
+		System.out.println("COMPUTER");
 		System.out.println("Hello world");
-
+		System.out.println("CODE");
 		System.out.println("Hello I am Umasuthan");
 
 		System.out.println("sasikala");
@@ -48,10 +49,11 @@ public class Helloworld {
 		System.out.println("family");
 		System.out.println("computer");
 
-		System.out.println("kandy");
+		System.out.println("my world");
 
 
 		
+		System.out.println("today");
 
 
 	}
