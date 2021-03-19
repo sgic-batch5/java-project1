@@ -28,6 +28,7 @@ public class Helloworld {
 		System.out.println("notebook");
 		System.out.println("abcd");
 		System.out.println("automatic");
+		System.out.println("dot");
 
 		System.out.println("hi");
 		System.out.println("Mathematics");
