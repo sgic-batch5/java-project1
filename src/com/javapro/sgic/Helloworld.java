@@ -26,8 +26,8 @@ public class Helloworld {
 		System.out.println("parts");
 		System.out.println("type");
 		System.out.println("notebook");
-
-		System.out.println("organization");
+		System.out.println("abcd");
+		System.out.println("automatic");
 
 		System.out.println("hi");
 		System.out.println("Mathematics");
