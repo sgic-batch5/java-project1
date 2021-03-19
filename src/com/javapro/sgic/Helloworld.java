@@ -62,11 +62,9 @@ public class Helloworld {
 		System.out.println("Kids");
 		System.out.println("MACHINE");
 		System.out.println("FEMINISM");
-
-
-
-		System.out.println("ten");
-		System.out.println("animals");
+		System.out.println("INDIPENDANCE");
+		System.out.println("SOCIOLOGIST");
+		System.out.println("ANIMAL");
 
 
 		System.out.println("ten");
