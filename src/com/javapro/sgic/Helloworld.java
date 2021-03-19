@@ -50,6 +50,8 @@ public class Helloworld {
 
 		System.out.println("artist");
 		System.out.println("examination");
+		System.out.println("artist1");
+		System.out.println("examination12");
 
 
 
