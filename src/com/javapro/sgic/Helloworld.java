@@ -18,23 +18,14 @@ public class Helloworld {
 		
 		System.out.println("Hello I am Umasuthan");
 		
-		System.out.println("hi");
+		System.out.println("JAFFNA");
 		
 		System.out.println("Hello");
 		System.out.println("Hello Umasuthan, Im Prgs");
 		System.out.println("organization");
-
-<<<<<<< HEAD
-
 		System.out.println("organization");
-		
-		
-
-		
-	
 		System.out.println("hi");
 		System.out.println("Mathematics");
-
 		System.out.println("Hello");
 		
 		System.out.println("I'm sasikala ....");
