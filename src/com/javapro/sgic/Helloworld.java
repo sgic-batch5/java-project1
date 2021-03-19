@@ -81,6 +81,9 @@ public class Helloworld {
 		System.out.println("today");
 		System.out.println("music");
 		System.out.println("SriLanka");
+
+		System.out.println("Hi shiva");
+
 		System.out.println("MY COUNTRY");
 
 
@@ -88,6 +91,8 @@ public class Helloworld {
 
 		System.out.println("copy");
 		System.out.println("telecast");
+		System.out.println("mannar");
+
 		
 		
 		System.out.println("selenium");
