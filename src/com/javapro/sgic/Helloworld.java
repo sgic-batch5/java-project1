@@ -56,13 +56,13 @@ public class Helloworld {
 
 		System.out.println("ventilation");
 		System.out.println("hospital");
-<<<<<<< HEAD
-=======
+
+
 		System.out.println("venus");
 		System.out.println("MNLINESS");
 		System.out.println("family");
 		System.out.println("development");
->>>>>>> d5270b6ec9f07050fa18499f4f63b80985aa7653
+
 		System.out.println("Values");
 		System.out.println("people");
 		System.out.println("Kids");
@@ -75,10 +75,8 @@ public class Helloworld {
 
 		System.out.println("ten");
 		System.out.println("twenty");
-<<<<<<< HEAD
-=======
 
->>>>>>> d5270b6ec9f07050fa18499f4f63b80985aa7653
+
 
 		System.out.println("family");
 
