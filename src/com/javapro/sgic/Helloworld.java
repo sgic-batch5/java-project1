@@ -47,6 +47,7 @@ public class Helloworld {
 		System.out.println("people");
 		System.out.println("Kids");
 		System.out.println("MACHINE");
+		System.out.println("FEMINISM");
 
 
 		System.out.println("ten");
