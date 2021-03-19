@@ -6,7 +6,7 @@ public class Helloworld {
 
 		System.out.println("Roshany Subramaniyam");
 		
-		System.out.println("mattale");
+		
 		
 		System.out.println("Hello world");
 
@@ -15,9 +15,8 @@ public class Helloworld {
 		System.out.println("sasikala");
 		
 		System.out.println("Hello I am Umasuthan");
-		
 		System.out.println("JAFFNA");
-		
+		System.out.println("SGIC");
 		System.out.println("Hello");
 		System.out.println("Hello Umasuthan, Im Prgs");
 		System.out.println("organization");
@@ -26,29 +25,30 @@ public class Helloworld {
 			
 	
 
+
 		System.out.println("organization");
 
 		System.out.println("hi");
 		System.out.println("Mathematics");
 		System.out.println("Hello");
-		
 		System.out.println("I'm sasikala ....");
 
 		System.out.println("Hello Umasuthan, Im Prgs");
-
-		
 		System.out.println("I'm theepika");
-
 		System.out.println("Read me");
-
 		System.out.println("members");
 		System.out.println("Read");
 		System.out.println("orientation");
+
+		
+		System.out.println("ghgjj");
+
 		System.out.println("artist");
 		System.out.println("examination");
+		System.out.println("family");
+		System.out.println("computer");
 
-
-
+		System.out.println("kandy");
 
 
 		
