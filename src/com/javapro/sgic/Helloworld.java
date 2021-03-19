@@ -3,6 +3,9 @@ package com.javapro.sgic;
 public class Helloworld {
 	public static void main(String args[]) {
 		System.out.println("Hello World");
+<<<<<<< HEAD
+		dfggh
+=======
 		
 		System.out.println("Roshany Subramaniyam");
 		
@@ -21,5 +24,6 @@ public class Helloworld {
 
 >>>>>>> a06b1a0235b6e3bfe47c48e5e57f4a6954ba1f3f
 
+>>>>>>> a06b1a0235b6e3bfe47c48e5e57f4a6954ba1f3f
 	}
 }
