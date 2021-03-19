@@ -29,7 +29,7 @@ public class Helloworld {
 		System.out.println("Read");
 		System.out.println("orientation");
 		System.out.println("JAFFNA");
-		System.out.println("ghgjj");
+		System.out.println("DIFFICULT");
 		System.out.println("HOMETOWN");
 		System.out.println("artist");
 		System.out.println("examination");
@@ -40,9 +40,18 @@ public class Helloworld {
 		
 
 		System.out.println("ventilation");
+		System.out.println("hospital");
+<<<<<<< HEAD
+		System.out.println("Values");
+		System.out.println("people");
+		System.out.println("Kids");
+		System.out.println("MACHINE");
 
 
-
+=======
+		System.out.println("ten");
+		System.out.println("twenty");
+>>>>>>> f6ba11c9a9e511b2839ad7914365174931fc7dad
 
 		System.out.println("family");
 		System.out.println("computer");
