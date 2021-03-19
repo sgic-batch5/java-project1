@@ -30,6 +30,7 @@ public class Helloworld {
 		System.out.println("automatic");
 		System.out.println("dot");
 		System.out.println("end");
+		System.out.println("mobile");
 
 		System.out.println("hi");
 		System.out.println("Mathematics");
