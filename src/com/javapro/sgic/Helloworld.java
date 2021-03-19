@@ -34,12 +34,27 @@ public class Helloworld {
 		System.out.println("JAFFNA");
 		System.out.println("artist");
 		System.out.println("examination");
+
+		System.out.println("artist1");
+		System.out.println("examination12");
+
+
+
+
+
 		System.out.println("family");
 		System.out.println("computer");
 		System.out.println("today");
 		System.out.println("music");
 		System.out.println("SriLanka");
 		System.out.println("MY COUNTRY");
+
+
+
+
+		System.out.println("copy");
+		System.out.println("telecast");
+		
 
 	}
 }
