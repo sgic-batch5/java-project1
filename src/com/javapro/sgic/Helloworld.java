@@ -4,6 +4,10 @@ public class Helloworld {
 	public static void main(String args[]) {
 		System.out.println("Hello World");
 
+<<<<<<< HEAD
+=======
+	
+>>>>>>> 7b24d37ece54964331f0f8ea5e760b4eafa1c113
 		
 		System.out.println("Roshany Subramaniyam");
 		
@@ -20,8 +24,12 @@ public class Helloworld {
 		System.out.println("Hello");
 		System.out.println("Hello Umasuthan, Im Prgs");
 
+<<<<<<< HEAD
 
 
 
+=======
+ 
+>>>>>>> 7b24d37ece54964331f0f8ea5e760b4eafa1c113
 	}
 }
