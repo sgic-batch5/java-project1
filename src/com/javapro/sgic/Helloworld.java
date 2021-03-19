@@ -49,7 +49,7 @@ public class Helloworld {
 		System.out.println("artist1");
 		System.out.println("examination12");
 		System.out.println("new1fromnew");
-		
+		System.out.println("mars");
 
 		System.out.println("ventilation");
 		System.out.println("hospital");
