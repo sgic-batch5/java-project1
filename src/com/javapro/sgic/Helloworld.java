@@ -19,14 +19,11 @@ public class Helloworld {
 		System.out.println("hi");
 
 		System.out.println("Hello");
-<<<<<<< HEAD
 		
 		System.out.println("I'm sasikala ....");
-=======
 		System.out.println("Hello Umasuthan, Im Prgs");
 		System.out.println("Read me");
 
->>>>>>> 588af8b4ae76099510fbc5d7eddaa0e529738471
 
 	}
 }
