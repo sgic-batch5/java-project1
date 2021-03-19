@@ -3,6 +3,9 @@ package com.javapro.sgic;
 public class Helloworld {
 	public static void main(String args[]) {
 		System.out.println("Hello World");
+		System.out.println("Hii");
+		System.out.println("Gajapalini");
+
 
 		System.out.println("Risha Ahamadh...");
 
@@ -12,6 +15,9 @@ public class Helloworld {
 
 		System.out.println("Nilucshiha");
 
+		System.out.println("Risha Ahamadh Risha Ahamadh");
+
+		System.out.println("Nilucshiha");
 
 		System.out.println("S.KIRUTHTHIGAN");
 
@@ -21,5 +27,9 @@ public class Helloworld {
 		System.out.println("rish ahamadh 2");
         
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> d7a63d83009206b729f7228acd8064a333767ae8
 	}
 }
