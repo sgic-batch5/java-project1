@@ -8,12 +8,22 @@ public class Helloworld {
 
 		System.out.println("kiruththigan");
 
+		System.out.println("Risha Ahamadh Risha Ahamadh");
+
+
+		System.out.println("Nilucshiha");
+
+
 		System.out.println("S.KIRUTHTHIGAN");
 
 		System.out.println("Theebihai");
 
 		System.out.println("Mithila");
+
 		
 		System.out.println("piruntha");
+
+
+
 	}
 }
