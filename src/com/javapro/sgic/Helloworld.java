@@ -46,12 +46,18 @@ public class Helloworld {
 
 		
 		System.out.println("piruntha");
+		System.out.println("PIRUNTHA");
+		
 		
 		System.out.println("qwertyuiop;lkjnhbvc");
 		
 		System.out.println("name print");
 		
 		System.out.println("risha ahamadh 333333");
+		System.out.println("risha ahamadh 4444");
+		System.out.println("risha ahamadh new one");
+		
+		System.out.println("KPIRUNTHA");
 		
 
 
